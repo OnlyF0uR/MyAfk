@@ -1,0 +1,8 @@
+name: MyAfk
+main: uk.onlyf0ur.myafk.MyAfk
+version: 1.0.0
+api-version: 1.19
+
+commands:
+  afk:
+    usage: /<command>

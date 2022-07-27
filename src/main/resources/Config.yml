@@ -1,0 +1,10 @@
+AfkDelay: 60
+Text:
+  NowAfk:
+    Message: "--#40423f--[--#f77e7e--MyAfk--#40423f--] --#d1d1d1--You are now afk."
+    Title: "--#f77e7e--You are now AFK"
+    Subtitle: "--#f77e7e--Sleep well"
+  NoLongerAfk:
+    Message: "--#40423f--[--#f77e7e--MyAfk--#40423f--] --#d1d1d1--You are no longer afk."
+    Title: "--#f77e7e--You are no longer AFK"
+    Subtitle: "--#f77e7e--Hope you had a nice sleep"
